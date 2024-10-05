@@ -1,4 +1,5 @@
 # REST-API-Bookcase-App
 REST API using Django and React
 
-![fullRestAPIBookCase](https://github.com/user-attachments/assets/cbd43e2c-3c72-4d92-8b44-28bcf9250245)
+![RestAPIBookCase](https://github.com/user-attachments/assets/924e32d7-7597-4cbf-b091-927e48705f70)
+
